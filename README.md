@@ -9,7 +9,6 @@ Quollex Admin Dashboard is a powerful and responsive admin panel built with **Ne
 - 🔹 **User Management** – Add, edit, and remove users with role-based access.
 - 📊 **Dashboard Analytics** – Get real-time insights with dynamic charts and graphs.
 - 🎨 **Custom UI** – Built with custom CSS for a sleek and optimized design.
-- 🌙 **Dark Mode Support** – Toggle between light and dark themes.
 - ⚡ **Optimized Performance** – Utilizes Next.js 14's features for fast loading times.
 
 ## 🛠️ Technologies Used
